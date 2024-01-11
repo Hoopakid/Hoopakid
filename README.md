@@ -1,16 +1,33 @@
-### Hi there 👋
+# Hi there! 👋 I'm Sherzod
 
-<!--
-**Hoopakid/Hoopakid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate Python Backend Developer with expertise in building robust and scalable applications. I enjoy working with various technologies to create efficient and innovative solutions. Here's a snapshot of my skills:
 
-Here are some ideas to get you started:
+Technologies & Tools
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **Frameworks:** FastAPI, Django
+- **Libraries:** Aiogram (Telegram bot framework)
+- **Databases:** PostgreSQL, SQL
+- **Web Technologies:** HTML, CSS
+- **Web Scraping:** Proficient in web scraping techniques
+- **Containerization:** Docker, Docker Compose
+- **IDEs:** PyCharm, Visual Studio Code
+- **Languages:** Python, C++
+- **APIs:** Restful API design and implementation
+
+## Projects
+
+- **Indeed clone Backend:** https://github.com/Hoopakid/Indeed:
+- **Turbo squid clone Backend:** https://github.com/Hoopakid/TurboSquid-Clone-Backend
+- ...
+
+## Recent Activities
+
+- 👨‍💻 Currently working on Jet Brains Clone Backend
+- 🌱 Learning Fastapi
+
+## Connect with Me
+
+- 📧 Email: azamovshavkat98@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/Hoopakid
+
+Feel free to explore my repositories to see some of my projects and contributions. If you have any questions or collaboration ideas, feel free to reach out! 😊
