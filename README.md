@@ -14,15 +14,19 @@ Technologies & Tools
 - **Languages:** Python, C++
 - **APIs:** Restful API design and implementation
 
+https://img.shields.io/badge/amazon%20alexa-52b5f7?style=for-the-badge&logo=amazon%20alexa&logoColor=white
+
+
 ## Projects
 
 - **Indeed clone Backend:** https://github.com/Hoopakid/Indeed:
 - **Turbo squid clone Backend:** https://github.com/Hoopakid/TurboSquid-Clone-Backend
-- ...
+- **Web Scrapping with Aiogram:** https://github.com/Hoopakid/WebScrappingWithAIogram
+- **Flamix with Django:** https://github.com/Hoopakid/Flamix
 
 ## Recent Activities
 
-- 👨‍💻 Currently working on Jet Brains Clone Backend
+- 👨‍💻 Currently working on Jet-Brains-Clone-Backend (https://github.com/Hoopakid/JetBrains-Clone-Backend)
 - 🌱 Learning Fastapi
 
 ## Connect with Me
