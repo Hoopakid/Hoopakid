@@ -1,3 +1,13 @@
+<h1 align='center'> Dzień dobry! 👋🏾</h1>
+<p align='center'>
+I'm Sherzod, and I like to build things 💻.
+</p>
+<p align='center'>
+<img src='https://github-readme-stats.vercel.app/api?username=Hoopakid&show_icons=true&theme=synthwave'>
+</p>
+
+
+
 # Hi there! 👋 I'm Sherzod
 
 I'm a passionate Python Backend Developer with expertise in building robust and scalable applications. I enjoy working with various technologies to create efficient and innovative solutions. Here's a snapshot of my skills:
