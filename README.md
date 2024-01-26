@@ -1,4 +1,4 @@
-<h1 align='center'> Dzień dobry! 👋🏾</h1>
+<h1 align='center'> Assalamu alaykum 👋🏾</h1>
 <p align='center'>
 I'm Sherzod, and I like to build things 💻.
 </p>
