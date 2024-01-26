@@ -1,17 +1,9 @@
-<h1 align='center'> Dzień dobry! 👋🏾</h1>
-<p align='center'>
-I'm Nick, and I like to build things 💻.
-</p>
-<p align='center'>
-<img src='https://camo.githubusercontent.com/6014eb78e05c61e71426139c019991aaa2fcd1637474f079bce74d12c0fa5df5/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6768305252676b54586564764630704463302f67697068792e676966'>
-</p>
-
-
 # Hi there! 👋 I'm Sherzod
 
 I'm a passionate Python Backend Developer with expertise in building robust and scalable applications. I enjoy working with various technologies to create efficient and innovative solutions. Here's a snapshot of my skills:
 
-## Stack I'm working with 💼https://camo.githubusercontent.com/6014eb78e05c61e71426139c019991aaa2fcd1637474f079bce74d12c0fa5df5/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f6768305252676b54586564764630704463302f67697068792e676966
+## Stack I'm working with 💼
+
 - **📋 Languages:**
 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
