@@ -86,7 +86,7 @@ I'm a passionate Python Backend Developer with expertise in building robust and 
 
 ## Connect with Me
 
-- 📧 [Email](azamovshavkat98@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/Hoopakid)
+- 📧 Email: azamovshavkat98@gmail.com
+- 💼 LinkedIn: https://www.linkedin.com/in/Hoopakid
 
 Feel free to explore my repositories to see some of my projects and contributions. If you have any questions or collaboration ideas, feel free to reach out! 😊
