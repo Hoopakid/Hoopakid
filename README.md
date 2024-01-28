@@ -72,10 +72,12 @@ I'm a passionate Python Backend Developer with expertise in building robust and 
 
 ## Projects
 
-- **Indeed clone Backend:** https://github.com/Hoopakid/Indeed:
-- **Turbo squid clone Backend:** https://github.com/Hoopakid/TurboSquid-Clone-Backend
-- **Web Scrapping with Aiogram:** https://github.com/Hoopakid/WebScrappingWithAIogram
-- **Flamix with Django:** https://github.com/Hoopakid/Flamix
+- **Mobile shopping project Backend:** [Here](https://github.com/Rahmet97/P14FastAPIProject)
+- **Indeed clone Backend:** [Here](https://github.com/Hoopakid/Indeed)
+- **Turbo squid clone Backend:** [Here](https://github.com/Hoopakid/TurboSquid-Clone-Backend)
+- **Web Scrapping with Aiogram:** [Here](https://github.com/Hoopakid/WebScrappingWithAIogram)
+- **Flamix with Django:** [Here](https://github.com/Hoopakid/Flamix)
+
 
 ## Recent Activities
 
