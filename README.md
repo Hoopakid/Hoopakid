@@ -2,22 +2,16 @@
 <p align='center'>
 I'm Sherzod, and I like to build things 💻.
 </p>
-<p align='center'>
-<img src='https://github-readme-stats.vercel.app/api?username=Hoopakid&show_icons=true&theme=synthwave'>
+<p align='right'>
+  <img src='https://github-readme-stats.vercel.app/api?username=Hoopakid&show_icons=true&theme=synthwave'>
 </p>
-
+<p align='left'><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hoopakid&show_icons=true&locale=en&layout=compact" alt="hoopakid" />
+</p>
 
 
 # Hi there! 👋 I'm Sherzod
 
 I'm a passionate Python Backend Developer with expertise in building robust and scalable applications. I enjoy working with various technologies to create efficient and innovative solutions. Here's a snapshot of my skills:
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hoopakid&show_icons=true&locale=en&layout=compact" alt="pycodeuz" /></p>
-
-
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Hoopakid&limit=5&theme=flat&combine_all_yearly_contributions=true)
 
 
 ## Stack I'm working with 💼
