@@ -1,12 +1,21 @@
-<h1 align='center'> Assalamu alaykum 👋🏾</h1>
-<p align='center'>
-I'm Sherzod, and I like to build things 💻.
-</p>
-<p align='right'>
-  <img src='https://github-readme-stats.vercel.app/api?username=Hoopakid&show_icons=true&theme=synthwave'>
-</p>
-<p align='left'><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hoopakid&show_icons=true&locale=en&layout=compact" alt="hoopakid" />
-</p>
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <div style="text-align: left;">
+    <h1>Assalamu alaykum 👋🏾</h1>
+    <p>I'm Sherzod, and I like to build things 💻.</p>
+  </div>
+  <div style="text-align: right;">
+    <img src='https://github-readme-stats.vercel.app/api?username=Hoopakid&show_icons=true&theme=synthwave'>
+  </div>
+</div>
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <div style="text-align: left;">
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Hoopakid&show_icons=true&locale=en&layout=compact" alt="hoopakid" />
+  </div>
+  <div style="text-align: right;">
+    <!-- If you have content for this part, add it here -->
+  </div>
+</div>
+
 
 
 # Hi there! 👋 I'm Sherzod
