@@ -5,7 +5,9 @@ I'm Sherzod, and I like to build things 💻.
 <p align='center'>
   <img src='https://github-readme-stats.vercel.app/api?username=Hoopakid&show_icons=true&theme=synthwave'>
 </p>
-
+<p align='center'>
+<a href="https://wakatime.com/@018d983b-358b-4e91-8ec8-6ec9735a5f1e"><img src="https://wakatime.com/badge/user/018d983b-358b-4e91-8ec8-6ec9735a5f1e.svg" alt="Total time coded since Feb 11 2024" /></a>
+</p>
 
 # Hi there! 👋 I'm Sherzod
 
