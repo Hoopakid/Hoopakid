@@ -8,9 +8,10 @@ I'm Sherzod, and I like to build things 💻.
 <p align='center'>
 <a href="https://wakatime.com/@018d983b-358b-4e91-8ec8-6ec9735a5f1e"><img src="https://wakatime.com/badge/user/018d983b-358b-4e91-8ec8-6ec9735a5f1e.svg" alt="Total time coded since Feb 11 2024" /></a>
 </p>
-<p align-'center>
-  <a><img src="https://wakatime.com/share/@Hoopakid/d1adacea-4a64-48a6-9df0-df4a230b2bb6.svg" alt="Used languages"></a>
+<p align='center'>
+  <a style="margin: 10px;"><img src="https://wakatime.com/share/@Hoopakid/d1adacea-4a64-48a6-9df0-df4a230b2bb6.svg" alt="Used languages"></a>
 </p>
+
 
 # Hi there! 👋 I'm Sherzod
 
