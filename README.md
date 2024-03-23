@@ -1,7 +1,9 @@
-<h1 style="text-align: center;">Assalamu alaykum 👋🏾</h1>
-<p style="text-align: center;">I'm Sherzod, and I like to build things 💻.</p>
+<h1 align='center'> Assalamu alaykum 👋🏾</h1>
 <p align='center'>
-  <img src="https://github-readme-stats.vercel.app/api?username=Hoopakid&count_private=true&show_icons=true&theme=algolia&include_all_commits=true">GitHub Stats</img>
+I'm Sherzod, and I like to build things 💻.
+</p>
+<p align='center'>
+  <img src="https://github-readme-stats.vercel.app/api?username=Hoopakid&count_private=true&show_icons=true&theme=algolia&include_all_commits=true"></img>
 </p>
 <p style="text-align: center;">
   <a href="https://wakatime.com/@018d983b-358b-4e91-8ec8-6ec9735a5f1e">
