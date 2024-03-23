@@ -1,8 +1,5 @@
 <h1 align='center'> Assalamu alaykum 👋🏾</h1>
 <p align='center'>
-I'm Sherzod, and I like to build things 💻.
-</p>
-<p align='center'>
   <img src="https://github-readme-stats.vercel.app/api?username=Hoopakid&count_private=true&show_icons=true&theme=algolia&include_all_commits=true"></img>
 </p>
 <p align='center'>
@@ -13,6 +10,10 @@ I'm Sherzod, and I like to build things 💻.
 </p>
 <p align='center'>
   <img src='https://github.com/samandareo/samandareo/blob/main/snake.svg'></img>
+</p>
+
+<p align='center'>
+I'm Sherzod, and I like to build things 💻.
 </p>
 
 
