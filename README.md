@@ -3,7 +3,11 @@
 I'm Sherzod, and I like to build things 💻.
 </p>
 <p align='center'>
-  <img src='https://github-readme-stats.vercel.app/api?username=Hoopakid&show_icons=true&theme=synthwave'>
+![Sherzod's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hoopakid&count_private=true&show_icons=true&theme=algolia&include_all_commits=true)
+
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Hoopakid&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+![Snake animation](https://github.com/samandareo/samandareo/blob/main/snake.svg)
 </p>
 <p align='center'>
 <a href="https://wakatime.com/@018d983b-358b-4e91-8ec8-6ec9735a5f1e"><img src="https://wakatime.com/badge/user/018d983b-358b-4e91-8ec8-6ec9735a5f1e.svg" alt="Total time coded since Feb 11 2024" /></a>
@@ -72,13 +76,6 @@ I'm a passionate Python Backend Developer with expertise in building robust and 
 
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white) ![ElasticSearch](https://img.shields.io/badge/-ElasticSearch-005571?style=for-the-badge&logo=elasticsearch)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white) ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
-
-![Sherzod's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hoopakid&count_private=true&show_icons=true&theme=algolia&include_all_commits=true)
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Hoopakid&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-![Snake animation](https://github.com/samandareo/samandareo/blob/main/snake.svg)
-
 
 ## Projects
 
