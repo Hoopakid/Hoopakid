@@ -5,10 +5,11 @@ I'm Sherzod, and I like to build things 💻.
 <p align='center'>
   <img src="https://github-readme-stats.vercel.app/api?username=Hoopakid&count_private=true&show_icons=true&theme=algolia&include_all_commits=true"></img>
 </p>
-<p style="text-align: center;">
-  <a href="https://wakatime.com/@018d983b-358b-4e91-8ec8-6ec9735a5f1e">
-    <img src="https://wakatime.com/badge/user/018d983b-358b-4e91-8ec8-6ec9735a5f1e.svg" alt="Total time coded since Feb 11 2024" />
-  </a>
+<p align='center'>
+<a href="https://wakatime.com/@018d983b-358b-4e91-8ec8-6ec9735a5f1e"><img src="https://wakatime.com/badge/user/018d983b-358b-4e91-8ec8-6ec9735a5f1e.svg" alt="Total time coded since Feb 11 2024" /></a>
+</p>
+<p align='center'>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Hoopakid&theme=algolia&date_format=M%20j%5B%2C%20Y%5D"></img>
 </p>
 
 
