@@ -1,13 +1,23 @@
-<h1 align='center'> Assalamu alaykum 👋🏾</h1>
-<p align='center'>
-I'm Sherzod, and I like to build things 💻.
-</p>
-<p align='center'>
-  <a href='https://github-readme-stats.vercel.app/api?username=Hoopakid&count_private=true&show_icons=true&theme=algolia&include_all_commits=true'></a>
-</p>
-<p align='center'>
-<a href="https://wakatime.com/@018d983b-358b-4e91-8ec8-6ec9735a5f1e"><img src="https://wakatime.com/badge/user/018d983b-358b-4e91-8ec8-6ec9735a5f1e.svg" alt="Total time coded since Feb 11 2024" /></a>
-</p>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Assalamu alaykum 👋🏾</title>
+</head>
+<body>
+  <h1 style="text-align: center;">Assalamu alaykum 👋🏾</h1>
+  <p style="text-align: center;">I'm Sherzod, and I like to build things 💻.</p>
+  <p style="text-align: center;">
+    <a href="https://github-readme-stats.vercel.app/api?username=Hoopakid&count_private=true&show_icons=true&theme=algolia&include_all_commits=true">GitHub Stats</a>
+  </p>
+  <p style="text-align: center;">
+    <a href="https://wakatime.com/@018d983b-358b-4e91-8ec8-6ec9735a5f1e">
+      <img src="https://wakatime.com/badge/user/018d983b-358b-4e91-8ec8-6ec9735a5f1e.svg" alt="Total time coded since Feb 11 2024" />
+    </a>
+  </p>
+</body>
+</html>
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Hoopakid&theme=algolia&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
