@@ -3,8 +3,6 @@
 I'm Sherzod, and I like to build things 💻.
 </p>
 <p align='center'>
-</p>
-<p align='center'>
   <a href='https://github-readme-stats.vercel.app/api?username=Hoopakid&count_private=true&show_icons=true&theme=algolia&include_all_commits=true'></a>
 </p>
 <p align='center'>
