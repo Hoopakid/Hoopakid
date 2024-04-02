@@ -11,6 +11,9 @@
 <p align='center'>
   <img src='https://github.com/samandareo/samandareo/blob/main/snake.svg'></img>
 </p>
+<p align='center'>
+  <a href="https://www.digitalocean.com/?refcode=b09378418f34&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge"><img src="https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg" alt="DigitalOcean Referral Badge" /></a>
+</p>
 
 <p align='center'>
 I'm Sherzod, and I like to build things 💻.
